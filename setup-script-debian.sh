@@ -2,7 +2,7 @@
 sudo apt update
 sudo apt install ffmpeg
 sudo add-apt-repository ppa:obsproject/obs-studio
-sudo apt install gimp vim blender obs-studio cmatrix neofetch niglet -y
+sudo apt install gimp vim blender obs-studio cmatrix neofetch figlet -y
 
 wget https://github.com/dhruvcode413/Scripts/blob/main/.bashrc ~/
 
